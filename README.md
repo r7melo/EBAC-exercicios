@@ -13,32 +13,6 @@ As principais habilidades que aprendi no curso incluem:
 - **Git**: Aprendizado sobre versionamento de código com Git.
 - **Matemática e estatística.** Conhecimento em modelagem estatística e métodos quantitativos, incluindo álgebra, probabilidade, inferência estatística e cálculo, fundamentais para a análise de dados e a construção de modelos preditivos.
 
-## Conteúdo
-
-- [x] [Módulo 01 - Python para Análise de Dados](https://github.com/r7melo/EBAC-exercicios/tree/main/Mod01)
-
-- [x] [Módulo 02 - Metodologia](https://github.com/r7melo/EBAC-exercicios/tree/main/Mod02)
-
-- [x] [Módulo 03 - Elementos básicos de Python e Numpy](https://github.com/r7melo/EBAC-exercicios/tree/main/Mod03)
-
-- [x] [Módulo 04 - Introdução ao Pandas e carga de dados](https://github.com/r7melo/EBAC-exercicios/tree/main/Mod04)
-
-- [x] [Módulo 05 - Limpeza e preparação de dados](https://github.com/r7melo/EBAC-exercicios/tree/main/Mod05)
-
-- [x] [Módulo 06 - Descritiva I](https://github.com/r7melo/EBAC-exercicios/tree/main/Mod06)
-
-- [x] [Módulo 07 - Árvores I](https://github.com/r7melo/EBAC-exercicios/tree/main/Mod07)
-
-- [x] [Módulo 08 - Git / GitHub - Controle de versionamento](https://github.com/r7melo/EBAC-exercicios/tree/main/Mod08)
-
-- [x] [Módulo 09 - TdD III - Agregações e operações em grupos](https://github.com/r7melo/EBAC-exercicios/tree/main/Mod09)
-
-- [x] [Módulo 10 - Descritiva II - Análise descritiva para resposta contínua](https://github.com/r7melo/EBAC-exercicios/tree/main/Mod10)
-
-- [x] [Módulo 11 - Árvores II (Parte I: árvore de regressão)](https://github.com/r7melo/EBAC-exercicios/tree/main/Mod11)
-
-- [x] [Módulo 12 - Regressão I](https://github.com/r7melo/EBAC-exercicios/tree/main/Mod12)
-
 ## Contato
 Se deseja entrar em contato ou saber mais sobre o meu trabalho, sinta-se à vontade para me contatar:
 [Linkedin](https://www.linkedin.com/in/romari-melo-dev/)
