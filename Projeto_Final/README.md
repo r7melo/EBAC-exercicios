@@ -27,8 +27,7 @@ Este repositório foi criado como parte do projeto final do curso de Ciência de
   1. Clone este repositório:
   
      ```bash
-     git clone https://github.com/seu-usuario/EBAC-Data-Science.git
-     streamlit run app.py
+     git clone https://github.com/r7melo/EBAC-Data-Science.git
      ```
   2. Instale as dependências:
      ```bash
