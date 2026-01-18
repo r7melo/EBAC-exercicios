@@ -1,9 +1,5 @@
 # Projeto Final - Classificação de Pacientes com Diabetes
 
-[streamlit.webm](https://github.com/user-attachments/assets/cb35672e-b0cf-460c-a921-16bf6ec2690c)
-
-[Visualização online do deploy](https://projeto-final-ebac-r7melo.streamlit.app)
-
 O objetivo deste modelo de machine learning é, a partir de algumas informações dos pacientes, consegui classificar se eles são ou não diabéticos, baseando-se em uma série de dados de saúde e estilo de vida. Para o desenvolvimento deste projeto, utilizaremos a base de dados [Diabetes Health Indicators Dataset](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset/data?select=diabetes_012_health_indicators_BRFSS2015.csv), que contém 253.680 respostas a uma pesquisa conduzida em 2015 pelo CDC (Centers for Disease Control and Prevention) dos Estados Unidos. O objetivo dessa pesquisa foi coletar informações sobre indicadores de saúde relacionados ao diabetes. A base de dados faz parte do Behavioral Risk Factor Surveillance System (BRFSS), um sistema de vigilância de fatores de risco à saúde.
 
 Link para acessar a base de dados: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset/data?select=diabetes_012_health_indicators_BRFSS2015.csv
