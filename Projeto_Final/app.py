@@ -7,7 +7,7 @@ import os
 
 
 # URL do ícone para a página
-icon = 'https://github.com/matheusparaujo1515/EBAC-Data-Science/blob/c338eeb7c28bf946f95ce9daf4829fba4756a321/Projeto_Final/icon.png'
+icon = 'https://github.com/r7melo/EBAC-exercicios/blob/main/Projeto_Final/icon.png'
 
 # Configuração inicial da página da aplicação
 st.set_page_config(page_title='Classificador de diabetes',
