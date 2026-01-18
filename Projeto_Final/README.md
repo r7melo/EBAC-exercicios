@@ -23,7 +23,7 @@ Este repositório foi criado como parte do projeto final do curso de Ciência de
   1. Clone este repositório:
   
      ```bash
-     git clone https://github.com/r7melo/EBAC-Data-Science.git
+     git clone https://github.com/r7melo/EBAC-exercicios
      ```
   2. Instale as dependências:
      ```bash
@@ -31,7 +31,7 @@ Este repositório foi criado como parte do projeto final do curso de Ciência de
      ```
   3. Execute o aplicativo:
      ```bash
-     streamlit run app.py
+     streamlit run Projeto_Final/app.py
      ```
     
 ## Referências
